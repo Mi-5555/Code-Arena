@@ -1,6 +1,6 @@
-# Code-Arena
+# Contest-Arena
 
-Welcome to **Code-Arena**, a curated collection of coding challenges, problem solutions, and contest submissions from various prestigious hackathons and competitive programming events.
+Welcome to **Contest-Arena**, a curated collection of coding challenges, problem solutions, and contest submissions from various prestigious hackathons and competitive programming events.
 
 ## Featured Events
 
